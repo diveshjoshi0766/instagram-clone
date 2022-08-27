@@ -12,4 +12,4 @@ function PrivateRoute({component:Component,...rest}) {
     )
 }
 
-export default PrivateRouterfc
+export default PrivateRoute
